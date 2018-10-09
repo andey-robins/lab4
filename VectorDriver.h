@@ -5,8 +5,8 @@
  * Desc: provides the basic framework and examples for an introduction to
  *       the STL::vector, iterators, and the algorithms facilities.
  *
- * Edited by: Rafe Cooley
- * Date: October 1, 2017 (the future)
+ * Edited by: Andey Tuttle
+ * Date: October 8, 2018 (the past)
  *
  */
 typedef unsigned long ulong;

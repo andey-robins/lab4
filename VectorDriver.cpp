@@ -2,6 +2,8 @@
 //  Code by Andey Tuttle
 //  Last Update October 8, 2018
 //  Liscenced under MIT Liscence
+//  This file tests the implementation of functions in VectorDriver.h which provide
+//  ways to interact with a vector<short>
 //
 
 #include "VectorDriver.h"
